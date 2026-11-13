@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252753384400",
+    "project_id": "minhas-tarefas-p2",
+    "storage_bucket": "minhas-tarefas-p2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252753384400:android:579e7cc46dbc0b47419fd5",
+        "android_client_info": {
+          "package_name": "br.edu.p2.tarefas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5waBSxJaxuJ2aBqaYH9kz5r3eMndUxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
